@@ -3,6 +3,8 @@ Develop a web application with basic user authentication, a task management syst
 
 
 FIRSTLY WE HAVE DOWNLOAD TO NODEMODULES FILES
+for express dependencies are express mongoose bcryptjs jsonwebtoken body-parser cors dotenv -save-dev nodemon
+for react axios react-router-dom
 
 Use any Api Application for expressjs so we need to test api working or not 
 first run nodemon start expressjs application after that we need to test the api's
