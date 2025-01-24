@@ -1,6 +1,9 @@
 # Full-Stack-Web-Application
 Develop a web application with basic user authentication, a task management system, and a feed for users to post content. The project will be evaluated based on functionality, design, and code quality.
 
+
+FIRSTLY WE HAVE DOWNLOAD TO NODEMODULES FILES
+
 Use any Api Application for expressjs so we need to test api working or not 
 first run nodemon start expressjs application after that we need to test the api's
 for registeration run this api in postman ya thunderstom 
